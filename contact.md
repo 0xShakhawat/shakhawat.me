@@ -5,7 +5,7 @@ is_contact: true
 
 ## Let’s connect
 
-I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](https://GitHub.com/0xShakhawat) but you can also find me on LinkedIn. The best way to contact me is either through [Twitter](https://www.twitter.com/0xShakhawat), or my email at [mailto:mail@shakhawat.me](mail@shakhawat.me) – my DMs and inbox are always open.
+I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](https://GitHub.com/0xShakhawat) but you can also find me on LinkedIn. The best way to contact me is either through [Twitter](https://www.twitter.com/0xShakhawat), or my email at [mail@shakhawat.me](mailto:mail@shakhawat.me) – my DMs and inbox are always open.
 
 
 * Email: [mail@shakhawat.me](mailto:mail@shakhawat.me)
