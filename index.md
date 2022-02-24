@@ -48,12 +48,7 @@ I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](htt
 .
 
 
-<a href="https://www.linkedin.com/in/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram.svg" alt="Shakhawat | LinkedIn" width="25" height="25"/></a>
-<a href="https://www.github.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github.svg" alt="Shakhawat | GitHub" width="25" height="25"/></a>
-<a href="https://www.twitter.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/twitter.svg" alt="Shakhawat | Twitter" width="25" height="25"/></a>
-<a href="https://www.youtube.com/Shakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="Shakhawat | YouTube" width="25" height="25"/></a>
-<a href="https://www.facebook.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/facebook.svg" alt="Shakhawat | Facebook" width="25" height="25"/></a>
-<a href="https://www.youtube.com/smartgenius/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="SmartGenius | YouTube" width="25" height="25"/></a>
+<a href="https://www.linkedin.com/in/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram.svg" alt="Shakhawat | LinkedIn" width="25" height="25"/></a><a href="https://www.github.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github.svg" alt="Shakhawat | GitHub" width="25" height="25"/></a><a href="https://www.twitter.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/twitter.svg" alt="Shakhawat | Twitter" width="25" height="25"/></a><a href="https://www.youtube.com/Shakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="Shakhawat | YouTube" width="25" height="25"/></a><a href="https://www.facebook.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/facebook.svg" alt="Shakhawat | Facebook" width="25" height="25"/></a><a href="https://www.youtube.com/smartgenius/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="SmartGenius | YouTube" width="25" height="25"/></a>
 
 .
 
