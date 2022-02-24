@@ -39,7 +39,7 @@ I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](htt
 
 .
 
-<img src="img/github.svg" width="50" height="50">
+<img src="img/github.svg" width="21" height="21">
 
 <a href="https://www.linkedin.com/in/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram.svg" alt="Shakhawat | LinkedIn" width="21px"/></a>
 <a href="https://www.github.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github.svg" alt="Shakhawat | GitHub" width="21px"/></a>
