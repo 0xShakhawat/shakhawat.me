@@ -22,13 +22,26 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 
 ## My skills
 
-#### Programming
+<button class="button button1">WebApp PenTest</button>
+<button class="button button2">Website PenTest</button>
+<button class="button button3">Network Security Testing</button>
+
+#### Coding
 
 <button class="button buttonp">Python</button>
 <button class="button buttonj">JavaScript</button>
 <button class="button buttonr">Ruby</button>
+<button class="button button5">Bash</button>
 
->Working on this components
+#### Knowledges
+
+<button class="button button4">OSINT</button>
+<button class="button button2">Social Engineering</button>
+<button class="button button3">Reverse Engineering</button>
+<button class="button button1">Cryptography</button>
+<button class="button button5">Steganography</button>
+<button class="button buttonp">Database</button>
+<button class="button buttonj">Problem Solving</button>
 
 
 ---
