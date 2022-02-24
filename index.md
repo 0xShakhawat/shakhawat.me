@@ -12,17 +12,11 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 
 
 ## Follow Me
-<div><p>
-<a href="https://www.linkedin.com/in/0xShakhawat/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram-red.svg" alt="Shakhawat | LinkedIn" width="25" height="25"/></a>
-<a href="https://www.github.com/0xShakhawat/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github-red.svg" alt="Shakhawat | GitHub" width="25" height="25"/></a>
-<a href="https://www.twitter.com/0xShakhawat/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/twitter-red.svg" alt="Shakhawat | Twitter" width="25" height="25"/></a>
-<a href="https://www.youtube.com/Shakhawat/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube-red.svg" alt="Shakhawat | YouTube" width="25" height="25"/></a>
-<a href="https://www.facebook.com/0xShakhawat/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/facebook-red.svg" alt="Shakhawat | Facebook" width="25" height="25"/></a>
-<a href="https://www.youtube.com/smartgenius/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube-red.svg" alt="SmartGenius | YouTube" width="25" height="25"/></a>
-</p></div>
-.
+
+>Working on this components
 
 ## My skills
+
 >Working on this components
 
 ## Going On
