@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/0xShakhawat"
-footer_text: "Page design by Shakhawat"
+footer_url: "https://github.com/0xShakhawat/shakhawat.me"
+footer_text: "© Created by Shakhawat "
 
 sass:
     style: compressed
