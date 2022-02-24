@@ -11,8 +11,16 @@ layout: default
 People find me enthusiastic and friendly. Sharing knowledge is my passion. **My biggest strength is – I am a quick self-learner**. Computer technology is my play ground. I’m a programmer and content creator. I am compassionate, I can put myself in others’ shoes. Having this ability gave me a whole new perspective to look at things.
 
 
-## My Skills
+## Follow Me
 
+<a href="https://www.linkedin.com/in/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram-red.svg" alt="Shakhawat | LinkedIn" width="25" height="25"/></a>
+<a href="https://www.github.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github-red.svg" alt="Shakhawat | GitHub" width="25" height="25"/></a>
+<a href="https://www.twitter.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/twitter-red.svg" alt="Shakhawat | Twitter" width="25" height="25"/></a>
+<a href="https://www.youtube.com/Shakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube-red.svg" alt="Shakhawat | YouTube" width="25" height="25"/></a>
+<a href="https://www.facebook.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/facebook-red.svg" alt="Shakhawat | Facebook" width="25" height="25"/></a>
+<a href="https://www.youtube.com/smartgenius/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube-red.svg" alt="SmartGenius | YouTube" width="25" height="25"/></a>
+
+## My skills
 >Working on this components
 
 ## Going On
@@ -39,7 +47,21 @@ I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](htt
 
 .
 
-<img src="img/github.svg" width="21" height="21">
 
-<a href="https://www.linkedin.com/in/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram.svg" alt="Shakhawat | LinkedIn" width="60" height="60"/></a>
-<a href="https://www.github.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github.svg" alt="Shakhawat | GitHub" width="21px"/></a>
+<a href="https://www.linkedin.com/in/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram.svg" alt="Shakhawat | LinkedIn" width="25" height="25"/></a>
+<a href="https://www.github.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github.svg" alt="Shakhawat | GitHub" width="25" height="25"/></a>
+<a href="https://www.twitter.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/twitter.svg" alt="Shakhawat | Twitter" width="25" height="25"/></a>
+<a href="https://www.youtube.com/Shakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="Shakhawat | YouTube" width="25" height="25"/></a>
+<a href="https://www.facebook.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/facebook.svg" alt="Shakhawat | Facebook" width="25" height="25"/></a>
+<a href="https://www.youtube.com/smartgenius/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="SmartGenius | YouTube" width="25" height="25"/></a>
+
+.
+
+
+
+
+
+
+
+
+
