@@ -17,6 +17,12 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 
 ## My skills
 
+#### Programming
+
+<button class="button buttonp">Python</button>
+<button class="button buttonj">JavaScript</button>
+<button class="button buttonr">Ruby</button>
+
 >Working on this components
 
 ## Going On
