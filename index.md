@@ -42,6 +42,8 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 <button class="button button5">Steganography</button>
 <button class="button buttonp">Database</button>
 <button class="button buttonj">Problem Solving</button>
+<button class="button button6">Docker</button>
+<button class="button button7">Kubernetes</button>
 
 
 ---
