@@ -127,5 +127,11 @@ hr {
 	}
 }
 
+/* Dotted border */
+hr.dotted {
+  border-top: 3px dotted #bbb;
+}
+
+
 @import "typography";
 @import "tables";
