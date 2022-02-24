@@ -20,7 +20,7 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 ><button class="buttonO button5" href="https://www.github.com/0xShakhawat"><img src="img/github.svg" width="40" height="40"></button>
 ><button class="buttonO button6" href="https://www.twitter.com/0xShakhawat"><img src="img/twitter.svg" width="40" height="40"></button>
 
->Working on this components
+>Read My Blog [blog.shakhawat.me](https://blog.shakhawat.me)
 
 ---
 
