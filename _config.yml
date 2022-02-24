@@ -1,0 +1,24 @@
+title: Shakhawat's Site
+url: "https://shakhawat.me"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/0xShakhawat"
+footer_text: "Page design by Shakhawat"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Blog"
+   link: "https://blog.shakhawat.me"
+ - name: "Contact"
+   link: "contact"
