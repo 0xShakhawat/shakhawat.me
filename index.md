@@ -16,9 +16,9 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 
 ## Follow Me
 
->[<button class="buttonO button2"><img src="img/linkedin.svg" width="40" height="40"></button>](https://www.linkedin.com/in/0xShakhawat)
-><button class="buttonO button5" href="https://www.github.com/0xShakhawat"><img src="img/github.svg" width="40" height="40"></button>
-><button class="buttonO button6" href="https://www.twitter.com/0xShakhawat"><img src="img/twitter.svg" width="40" height="40"></button>
+>[<button class="buttonO button2"><img src="img/linkedin-red.svg" width="40" height="40"></button>](https://www.linkedin.com/in/0xShakhawat)
+>[<button class="buttonO button5"><img src="img/github-red.svg" width="40" height="40"></button>](https://www.github.com/0xShakhawat)
+>[<button class="buttonO button6"><img src="img/twitter-red.svg" width="40" height="40"></button>](https://www.twitter.com/0xShakhawat)
 
 >View My Blog Site [**blog.shakhawat.me**](https://blog.shakhawat.me)
 
