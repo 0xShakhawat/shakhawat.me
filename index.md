@@ -16,6 +16,10 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 
 ## Follow Me
 
+<button class="buttonO button2"><img src="img/linkedin.svg" width="25" height="25"></button>
+<button class="buttonO button5"><img src="img/github.svg" width="25" height="25"></button>
+<button class="buttonO button6"><img src="img/twitter.svg" width="25" height="25"></button>
+
 >Working on this components
 
 ---
