@@ -46,17 +46,7 @@ I have another YouTube channel called [Shakhawat](https://YouTube.com/Shakhawat)
 I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](https://GitHub.com/0xShakhawat) but you can also find me on LinkedIn. The best way to contact me is either through [Twitter](https://www.twitter.com/0xShakhawat), or my email at [mail@shakhawat.me](mailto:mail@shakhawat.me) – my DMs and inbox are always open.
 
 .
-
-.
-
-
-<p><img src="img/facebook.svg" width="20" height="20"><img src="img/twitter.svg" width="20" height="20"></p>
-
-
-
-Follow:<a href="https://www.linkedin.com/in/0xShakhawat/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/instagram.svg" alt="Shakhawat | LinkedIn" width="25" height="25"/></a><a href="https://www.github.com/0xShakhawat/"><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/github.svg" alt="Shakhawat | GitHub" width="25" height="25"/></a><a href="https://www.twitter.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/twitter.svg" alt="Shakhawat | Twitter" width="25" height="25"/></a><a href="https://www.youtube.com/Shakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="Shakhawat | YouTube" width="25" height="25"/></a><a href="https://www.facebook.com/0xShakhawat/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/facebook.svg" alt="Shakhawat | Facebook" width="25" height="25"/></a><a href="https://www.youtube.com/smartgenius/"><img align="left" src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/youtube.svg" alt="SmartGenius | YouTube" width="25" height="25"/></a>.
-
-.
+Follow me:  <a HREF='https://www.facebook.com/0xShakhawat'><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/facebook-red.svg" alt="Shakhawat | Facebook" width="25" height="25"/></a><a HREF='https://www.twitter.com/0xShakhawat'><img src="https://raw.githubusercontent.com/0xShakhawat/shakhawat.me/main/img/twitter-red.svg" alt="Shakhawat | Twitter" width="25" height="25"/></a>
 
 
 
