@@ -24,7 +24,7 @@ People find me enthusiastic and friendly. Sharing knowledge is my passion. **My 
 
 #### Programming
 
-<button class="button buttonp"><img src="img/facebook.svg" width="12" height="12">Python</button>
+<button class="button buttonp"><img src="img/facebook.svg" width="16" height="16">Python</button>
 <button class="button buttonj">JavaScript</button>
 <button class="button buttonr">Ruby</button>
 
