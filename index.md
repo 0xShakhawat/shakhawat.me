@@ -49,6 +49,9 @@ I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](htt
 
 .
 
+[![Facebook](/img/facebook.svg)](https://facebook.com/0xShakhawat) [![Twitter](/img/twitter.svg)](https://twitter.com/0xShakhawat)
+
+
 <p><img src="img/facebook.svg" width="20" height="20"><img src="img/twitter.svg" width="20" height="20"></p>
 
 
