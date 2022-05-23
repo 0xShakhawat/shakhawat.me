@@ -5,7 +5,7 @@ baseurl: "/"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: G-BYJXYDGGB8
 
 footer: yes
 footer_url: "https://github.com/0xShakhawat/shakhawat.me"
