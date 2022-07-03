@@ -70,7 +70,7 @@ I have another YouTube channel called [Shakhawat](https://YouTube.com/Shakhawat)
 
 ---
 
-## Let's Connect
+## Let's Ping
 
 I’m most active on [Twitter](https://twitter.com/0xShakhawat) and [GitHub](https://GitHub.com/0xShakhawat) but you can also find me on LinkedIn. The best way to contact me is either through [Twitter](https://www.twitter.com/0xShakhawat), or my email at [mail@shakhawat.me](mailto:mail@shakhawat.me) – my DMs and inbox are always open.
 
