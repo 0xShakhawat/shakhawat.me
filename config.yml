@@ -83,7 +83,7 @@ params:
     - name: tryhackme
       url: "https://tryhackme.com/p/0xShakhawat"
     - name: hackthebox
-      url: "https://hackthebox.com/0xShakhawat"
+      url: "https://app.hackthebox.com/profile/1121654"
     - name: github
       url: "https://github.com/0xShakhawat/"
 
