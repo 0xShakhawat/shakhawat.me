@@ -1,0 +1,23 @@
+:root {
+    --theme: rgb(222, 255, 224);
+    --entry: #cdffcd;
+    --primary: rgb(19, 128, 0);
+    --secondary: rgb(5, 72, 0);
+    --tertiary: rgba(0, 0, 106, 0.16);
+    --content: rgb(9, 72, 0);
+    --hljs-bg: #1c1d21;
+    --code-bg: #f5f5f5;
+    --border: rgb(21, 255, 0);
+}
+
+.dark {
+    --theme: #000000;
+    --entry: #1b1b1b;
+    --primary: rgba(0, 255, 0, 0.96);
+    --secondary: rgba(176, 255, 176, 0.66);
+    --tertiary: rgba(1, 1, 5, 0.32);
+    --content: rgba(223, 255, 223, 0.82);
+    --hljs-bg: #1b1b1b;
+    --code-bg: #0f4600;
+    --border: rgb(21, 255, 0);
+}

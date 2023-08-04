@@ -1,0 +1,155 @@
+baseURL: ""
+languageCode: en-us
+title: Shakhawat - Penetration Tester
+paginate: 7
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-BYJXYDGGB8
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Shakhawat - Penetration Tester
+  description: "I'm Shakhawat a Cybersecurity Researcher, Penetration Tester, Ethical Hacker. Working in network pentest and web-app hacking, delivering quality work. It's my portfolio"
+  keywords: [Portfolio, Blog, Pentest]
+  author: 0xShakhawat
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # auto, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon/favicon.ico"
+    favicon16x16: "favicon/favicon-16x16.png"
+    favicon32x32: "favicon/favicon-32x32.png"
+    apple_touch_icon: "favicon/apple-touch-icon.png"
+    safari_pinned_tab: "favicon/apple-touch-icon.png"
+
+  label:
+    text: "./0xShakhawat"
+    icon: favicon/fire-fireball.gif
+    iconHeight: 28
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Hi, I'm Shakhawat
+    subtitle: "Aspiring Cybersecurity Student"
+    imageUrl: "img/0xshakhawat.jpg"
+    imageWidth: 140
+    imageHeight: 140
+    imageTitle: 0xShakhawat
+    buttons:
+      - name: Blog
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi, I'm Shakhawat"
+    Content: Aspiring Cybersecurity Student
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/0xShakhawat/"
+    - name: tryhackme
+      url: "https://tryhackme.com/p/0xShakhawat"
+    - name: hackthebox
+      url: "https://hackthebox.com/0xShakhawat"
+    - name: github
+      url: "https://github.com/0xShakhawat/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-BYJXYDGGB8"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/0xShakhawat/shakhawat.me/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: home
+      name: root
+      url: /
+      weight: 10
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 20
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 40
+    - identifier: search
+      name: 🔍
+      url: /search/
+      weight: 50
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
