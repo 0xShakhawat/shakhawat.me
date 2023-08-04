@@ -67,10 +67,10 @@ params:
     imageHeight: 140
     imageTitle: 0xShakhawat
     buttons:
-      - name: Blog
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Blogs
+        url: blogs
+      - name: Archives
+        url: archives
 
   # home-info mode
   homeInfoParams:
@@ -121,22 +121,22 @@ menu:
       name: root
       url: /
       weight: 10
-    - identifier: archives
-      name: archives
-      url: /archives/
+    - identifier: blogs
+      name: blogs
+      url: /blogs/
       weight: 20
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 30
+      weight: 40
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 40
+      weight: 50
     - identifier: search
       name: 🔍
       url: /search/
-      weight: 50
+      weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
