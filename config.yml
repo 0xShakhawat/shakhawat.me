@@ -121,13 +121,17 @@ menu:
       name: root
       url: /
       weight: 10
+    - identifier: about
+      name: _about
+      url: /about
+      weight: 11     
     - identifier: blogs
       name: blogs
       url: /blogs/
       weight: 20
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: write-ups
+      name: write-ups
+      url: /write-ups
       weight: 40
     - identifier: tags
       name: tags
