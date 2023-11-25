@@ -1,0 +1,32 @@
+:root {
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 1024px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 8px;
+    --border-style: 2px dashed var(--border); /* border style for post cover, toc, archive page */
+    --theme: #fdf9e6;
+    --entry: #f9f5d7;
+    --primary: rgb(19, 128, 0);
+    --secondary: rgb(5, 72, 0);
+    --tertiary: rgba(0, 0, 106, 0.16);
+    --content: rgb(9, 72, 0);
+    --hljs-bg: #fffce5;
+    --code-bg: #fffce5;
+    --border: rgb(21, 255, 0);
+  }
+  
+  .dark {
+    --theme: #000000; /*background*/
+    --entry: #1b1b1b; /*post, ToC background*/
+    --content: rgba(223, 255, 223, 0.82); /*main text*/
+    --hljs-bg: #282828; /*code block background*/
+    --border: rgb(21, 255, 0); /*tag and ToC border*/
+    --primary: rgba(0, 255, 0, 0.96);
+    --secondary: rgba(176, 255, 176, 0.66);
+    --tertiary: rgba(1, 1, 5, 0.32);
+    --code-bg: rgb(55, 56, 62);
+    --border-style: 2px dashed var(--border); /* border style for post cover, toc, archive page */
+  }
