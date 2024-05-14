@@ -25,7 +25,7 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # auto, light
-  disableThemeToggle: false
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -53,13 +53,13 @@ params:
     safari_pinned_tab: "favicon/apple-touch-icon.png"
 
   label:
-    text: "./0xShakhawat"
-    icon: favicon/fire-fireball.gif
+    text: "~# ./0xShakhawat"
+    icon: favicon/retro-hack.gif
     iconHeight: 28
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: Hi, I'm Shakhawat
     subtitle: "Aspiring Cybersecurity Student"
     imageUrl: "img/0xshakhawat.jpg"
@@ -86,6 +86,9 @@ params:
       url: "https://app.hackthebox.com/profile/1121654"
     - name: github
       url: "https://github.com/0xShakhawat/"
+    - name: linkedin
+      url: "https://linkedin.com/in/0xShakhawat"
+
 
   analytics:
     google:
