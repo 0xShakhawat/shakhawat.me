@@ -157,6 +157,14 @@ ShowBreadCrumbs: false
       <li>Hunting on Vulnerability Disclosure Program (VDP)</li>
       <li>Can't find a single but yet. ☹️</li>
     </ul>
+    <br>
+    <strong>Application Developer | Play Console | Freelance</strong>
+    <span style="float: right;"><i>Aug 2022 - Present</i></span>
+    </p>
+    <ul style="padding: 20px; margin: 0;">
+      <li>I tinker with app development in my free time.</li>
+      <li>As a hobby and for fun.</li>
+    </ul>
   </section>
 
   <section style="padding: 20px;">
@@ -168,18 +176,18 @@ ShowBreadCrumbs: false
   <section style="padding: 20px;">
     <h2 style="margin: 0;">EDUCATION</h2><br>
     <p style="margin: 0;">
+    <strong>Cisco Certified Network Associate Routing & Switching (CCNA)</strong>
+    <span style="float: right;"><i>Mar 2024 - Present</i></span>
+    <br>
+      Bangladesh University of Engineering and Technology<br>
+      CCNA
+    </p>
+    <br>
     <strong>Bachelor of Science in Computer Science and Engineering</strong>
     <span style="float: right;"><i>Sep 2023 - Present</i></span>
     <br>
       Institute of Science and Technology<br>
       CSE
-    </p>
-    <br>
-    <strong>Higher Secondary School Certificate</strong>
-    <span style="float: right;"><i>2019 - 2021</i></span>
-    <br>
-      Selim Reza Habib College<br>
-      Grade: A
     </p>
   </section>
 
@@ -194,7 +202,7 @@ ShowBreadCrumbs: false
     <ul style="padding: 20px; margin: 5px;">
       <li>Ranked 15th at mayaCTF 2023 - psychic.</li>
       <li>Pwned 20+ vulnerable machines (VlunHub+THM).</li>
-      <li>Top 3% [0xA] on Tryhackme.</li>
+      <li>Top 2% [0xC] on Tryhackme.</li>
     </ul>
     <br>
   </section>

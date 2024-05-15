@@ -17,7 +17,7 @@ Hi, I'm Shakhawat Hossain. I'm from Bangladesh.
 - Passionate about cybersecurity 🔐. 
 - actively seeking **opportunities** to both apply my skills and enhance them further.
 - Sharpening my skills 🤹‍♂️ through challenges on [**ctftime**](https://ctftime.org/user// "timectf Profile") and [**THM**](https://tryhackme.com/p/0xShakhawat/ "tryhackme profile")🚩
-- Planning to pursue **OSCP** certification 📜 in the near future, Insha’Allah🙏
+- Planning to pursue **PNPT** certification 📜 in the near future, Insha’Allah🙏
 - Excited about possibilities in the ever-evolving field of cybersecurity 🌟
 - checkout my [**Resume**](/resume "cv")📄
 

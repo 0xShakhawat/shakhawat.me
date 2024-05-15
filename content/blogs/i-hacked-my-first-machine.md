@@ -6,7 +6,7 @@ tags: ["hacking", "infosec", "vulnhub", "pentesting"]
 categories: ["Cybersecurity"]
 ---
 
-![Pawned First Machine](https://media.licdn.com/dms/image/D5622AQESYU5sbTN19w/feedshare-shrink_800/0/1690559715314?e=1704931200&v=beta&t=g0HFAstBEp2F9fRxZvkeUApKBRMXPwOssIGm6CXiUEg)
+![Pawned First Machine](https://pbs.twimg.com/media/F2IpuKqa0AAaNWv?format=png&name=360x360)
 
 I’ve successfully rooted this machine. I won this machine. It’s my machine now. This is my first rooted machine. & I’m Awesome! #penetrationtesting #CyberSecurity #infosec #pentesting #Hacking
 
