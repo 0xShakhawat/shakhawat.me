@@ -195,6 +195,7 @@ ShowBreadCrumbs: false
     <h2 style="margin: 0;">COURSES AND CERTIFICATION</h2>
     <ul style="padding: 20px; margin: 5px;">
       <li><strong>Practical Ethical Hacking - TCM Security</strong><span style="float: right;"><i><a href="link-to-credentials" target="_blank" style="text-decoration: none;">View Credentials</a></i></span></li>
+      <li><strong>Postman API Fundamentals Student Expert - Postman</strong><span style="float: right;"><i><a href="https://badgr.com/public/assertions/IXisaMc4QDucAX9Fz4MzGA?identity__email=mail@shakhawat.me" target="_blank" style="text-decoration: none;">View Credentials</a></i></span></li>
   </section>
 
   <section style="padding: 20px;">
