@@ -200,7 +200,11 @@ ShowBreadCrumbs: false
   <section style="padding: 20px;">
     <h2 style="margin: 0;">ACTIVITIES...</h2>
     <ul style="padding: 20px; margin: 5px;">
-      <li>Ranked 15th at mayaCTF 2023 - psychic.</li>
+      <li>Ranked 43th at Red Team Village presents Phoenix Summit CTF 2024 - (Individual).</li>
+      <li>Ranked 10th at Flag Fest 2024 - HiddenInvestigations.</li>
+      <li>Ranked 14th at IUT ICT Fest 2024 CTF 2023 - HiddenInvestigations.</li>
+      <li>Ranked 69th at BlackHat Asia CTF 2024 - HiddenInvestigations.</li>
+      <li>Ranked 15th at mayaCTF 2023 - (Individual).</li>
       <li>Pwned 20+ vulnerable machines (VlunHub+THM).</li>
       <li>Top 2% [0xC] on Tryhackme.</li>
     </ul>
@@ -211,7 +215,8 @@ ShowBreadCrumbs: false
   <section style="padding: 20px; text-align: center;">
     <!-- Your skills with buttons -->
     <span class="skill">Vulnerability Assessment</span>
-    <span class="skill">Penetration Testing</span>
+    <span class="skill">Network Penetration Testing</span>
+    <span class="skill">Web-App Penetration Testing</span>
     <span class="skill">CTFs</span>
     <span class="skill">Digital Forensics</span>
     <span class="skill">Python</span>
