@@ -1,5 +1,5 @@
 ---
-title: "How I hacked My First Machine - Hacking Lab"
+title: "How I Hacked My First Machine - Hacking Lab"
 date: 2023-07-29T13:26:00+06:00
 draft: false
 tags: ["hacking", "infosec", "vulnhub", "pentesting"]
