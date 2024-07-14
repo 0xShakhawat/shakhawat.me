@@ -7,4 +7,4 @@ categories: ["Write-ups"]
 ---
 ### Read Here
 
-Kioptrix 1 Writeups link: https://shakhawat.me/blogs/how-i-hacked-my-first-machine/
+**Kioptrix 1 Writeups link:** https://shakhawat.me/blogs/how-i-hacked-my-first-machine/

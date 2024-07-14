@@ -1,7 +1,7 @@
 baseURL: "https://shakhawat.me"
 languageCode: en-us
 title: Shakhawat - Penetration Tester
-paginate: 7
+paginate: 8
 theme: PaperMod
 
 enableRobotsTXT: true
