@@ -36,9 +36,14 @@
   weight = 50
 
 [[main]]
+  name = "projects"
+  pageRef = "projects"
+  weight = 60
+
+[[main]]
   name = "tags"
   pageRef = "tags"
-  weight = 60
+  weight = 70
 
 # [[main]]
 #   name = "example sub-menu 1"
