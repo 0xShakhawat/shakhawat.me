@@ -441,6 +441,29 @@ int main() {
    return 0;
 }
 
+
+////
 //// Created by 0xShakhawat and Israk...
 //// Thanks...
+////
 
+
+Definitions:
+
+Pointer:- stores a memory adress,and is used to interect with data stored at that location
+
+Array:- stores multiple elements of the same type under a single variable 
+
+String:- data type that contain char,words or symbols 
+
+Data type:- perimitive,derived,user defined 
+
+Perimitive:- int,char,float,double
+
+Derived:- array,pointers,function
+
+User defined:- structure,union
+
+File allocation:- methods for storing any file in the system's memory block
+
+Variable:- a variable is a piece of memory that stores a value that can be changed.
