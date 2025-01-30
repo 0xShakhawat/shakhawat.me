@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tcmsec on 0xShakhawat - The Hacker Who Always Gets In</title>
+    <link>https://shakhawat.me/tags/tcmsec/</link>
+    <description>Recent content in Tcmsec on 0xShakhawat - The Hacker Who Always Gets In</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 14 Jul 2024 13:25:00 +0600</lastBuildDate><atom:link href="https://shakhawat.me/tags/tcmsec/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ACADEMY Machine Writeup - TCM-SEC Academy</title>
+      <link>https://shakhawat.me/write-ups/tcmsec/academy-machine-writeup-tcm-sec-academy/</link>
+      <pubDate>Sun, 14 Jul 2024 13:25:00 +0600</pubDate>
+      
+      <guid>https://shakhawat.me/write-ups/tcmsec/academy-machine-writeup-tcm-sec-academy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Exploiting the Blue Machine - TCM-SEC Academy</title>
+      <link>https://shakhawat.me/write-ups/tcmsec/exploiting-the-blue-machine-tcm-sec-academy/</link>
+      <pubDate>Sun, 14 Jul 2024 13:25:00 +0600</pubDate>
+      
+      <guid>https://shakhawat.me/write-ups/tcmsec/exploiting-the-blue-machine-tcm-sec-academy/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

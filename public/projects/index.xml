@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 0xShakhawat - The Hacker Who Always Gets In</title>
+    <link>https://shakhawat.me/projects/</link>
+    <description>Recent content in Projects on 0xShakhawat - The Hacker Who Always Gets In</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <atom:link href="https://shakhawat.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SubNetter - IP Subnet and VLSM Calculator (CLI &amp; Android App)</title>
+      <link>https://shakhawat.me/projects/subnetter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shakhawat.me/projects/subnetter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shakhawat.me/projects/subnetter/feature-subnetter.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on 0xShakhawat - The Hacker Who Always Gets In</title>
+    <link>https://shakhawat.me/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on 0xShakhawat - The Hacker Who Always Gets In</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 26 Dec 2022 23:02:51 +0600</lastBuildDate><atom:link href="https://shakhawat.me/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Authentication :: Cybersecurity</title>
+      <link>https://shakhawat.me/blogs/authentication-cybersecurity/</link>
+      <pubDate>Mon, 26 Dec 2022 23:02:51 +0600</pubDate>
+      
+      <guid>https://shakhawat.me/blogs/authentication-cybersecurity/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shakhawat.me/blogs/authentication-cybersecurity/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
