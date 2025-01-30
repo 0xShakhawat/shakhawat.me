@@ -13,7 +13,7 @@ title = "0xShakhawat - The Hacker Who Always Gets In"
   description = "I'm Shakhawat a Cybersecurity Researcher, Penetration Tester, Ethical Hacker. Working in network pentest and web-app hacking, delivering quality work. It's my portfolio"
   # copyright = "&copy; 2024 Shakhawat Hossain. All Rights Reserved"
 
- [author]
+ [params.author]
    name = "0xShakhawat"
    image = "img/profile.jpg"
    headline = "Aspiring Cybersecurity Student"
