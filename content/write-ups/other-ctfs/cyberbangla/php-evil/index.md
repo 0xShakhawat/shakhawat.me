@@ -1,5 +1,5 @@
 ---
-title: "PHP Evil | Crypto"
+title: "PHP Evil | Web"
 date: 2025-01-18T00:00:53+06:00
 draft: false
 tags: ["writeups", "cyberbangla", "ctf"]
