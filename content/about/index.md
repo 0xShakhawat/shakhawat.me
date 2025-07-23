@@ -1,15 +1,8 @@
 ---
 title: "About Me"
+sharingLinks: false
+layout: "simple"
 draft: false
-searchHidden: true
-ShowToc: false
-ShowReadingTime: false
-disableHLJS: true
-robotsNoIndex: true
-hideMeta: true
-ShowBreadCrumbs: false
-# edit_post: false
-# weight: 1
 ---
 
 Hi, I'm Shakhawat Hossain. I'm from Bangladesh.
@@ -19,7 +12,7 @@ Hi, I'm Shakhawat Hossain. I'm from Bangladesh.
 - Sharpening my skills 🤹‍♂️ through challenges on [**ctftime**](https://ctftime.org/user// "timectf Profile") and [**THM**](https://tryhackme.com/p/0xShakhawat/ "tryhackme profile")🚩
 - Planning to pursue **PNPT or OSCP** certification 📜 in the near future, Insha’Allah🙏
 - Excited about possibilities in the ever-evolving field of cybersecurity 🌟
-- checkout my [**Resume**](/resume "cv")📄
+- Checkout my [**Resume**](/resume "cv")📄
 
 
 &nbsp;
