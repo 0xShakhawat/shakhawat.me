@@ -10,12 +10,12 @@ showTableOfContents: false
 # HackerOne Bug Hunt 2026 Qualifiers Report
 ## ChaBank LTD - Security Vulnerability Report
 
-**Target Application:** ChaBank LTD
-**Researcher:** Md. Shakhawat Hossain (0xShakhawat)
-**Email:** 0xshakhawat@wearehackerone.com
-**Report Date:** 22 November 2025
-**Total Vulnerabilities Found:** 12
-**Event:** HackerOne Bug Hunt 2026 Qualifiers
+**Target Application:** ChaBank LTD  
+**Researcher:** Md. Shakhawat Hossain (0xShakhawat)  
+**Email:** 0xshakhawat@wearehackerone.com  
+**Report Date:** 22 November 2025  
+**Total Vulnerabilities Found:** 12  
+**Event:** HackerOne Bug Hunt 2026 Qualifiers  
 
 ---
 
