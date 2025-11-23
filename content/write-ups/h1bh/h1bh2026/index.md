@@ -562,15 +562,13 @@ By exploiting the LFI vulnerability (Bug #6), attackers can access the applicati
        "host": "smtp.mailersend.net",
        "port": 587,
        "use_tls": true,
-       "username": "MS_eCbcuI@test-z0vklo687x7l7qrx.mlsender.net",
-       "password": "mssp.DICm5PT.jpzkmgq3y5n4059v.lZzB2hG",
-       "from_email": "MS_eCbcuI@test-z0vklo687x7l7qrx.mlsender.net",
+       "username": "************",
+       "password": "*******************",
+       "from_email": "************************",
        "from_name": "ChaBank Bangladesh"
      }
    }
    ```
-
-   ![Bug 11](https://blogger.googleusercontent.com/img/a/AVvXsEhG9JqF8o9x_PV1uDNDTiZq1lDhR2eiaIYT6tFI6w2oNpqwJ27SK9X9hKGhVDiWdUS-lgpt69Q5iG9sMqW4VDwW54xSbCLzgrdw1gcD2WqHNanK4Z66hxyZqHvNxVnnOtl7sT26MR2Q-KUIREy31CaF9izOn0H4Nh6iZ611WPXZ5KPrwqZgC_atfQUP1Ag)
    *Burp Suite response showing exposed SMTP configuration with credentials*
 
 5. Use these credentials with an SMTP client to send emails as "ChaBank Bangladesh"
