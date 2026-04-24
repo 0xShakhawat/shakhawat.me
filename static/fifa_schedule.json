@@ -10,7 +10,7 @@
     "stadium": "Estadio Azteca",
     "city": "Mexico City",
     "country": "Mexico",
-    "datetime": "2026-06-12T01:00:00Z"
+    "datetime": "2026-06-11T19:00:00Z"
   },
   {
     "matchId": 2,
@@ -23,7 +23,7 @@
     "stadium": "Estadio Akron",
     "city": "Guadalajara",
     "country": "Mexico",
-    "datetime": "2026-06-12T08:00:00Z"
+    "datetime": "2026-06-12T02:00:00Z"
   },
   {
     "matchId": 3,
@@ -36,7 +36,7 @@
     "stadium": "BMO Field",
     "city": "Toronto",
     "country": "Canada",
-    "datetime": "2026-06-13T01:00:00Z"
+    "datetime": "2026-06-12T19:00:00Z"
   },
   {
     "matchId": 4,
@@ -49,7 +49,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-06-13T07:00:00Z"
+    "datetime": "2026-06-13T01:00:00Z"
   },
   {
     "matchId": 5,
@@ -62,7 +62,7 @@
     "stadium": "Levi's Stadium",
     "city": "Santa Clara",
     "country": "USA",
-    "datetime": "2026-06-14T01:00:00Z"
+    "datetime": "2026-06-13T19:00:00Z"
   },
   {
     "matchId": 6,
@@ -75,7 +75,7 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-06-14T04:00:00Z"
+    "datetime": "2026-06-13T22:00:00Z"
   },
   {
     "matchId": 7,
@@ -88,7 +88,7 @@
     "stadium": "Gillette Stadium",
     "city": "Boston",
     "country": "USA",
-    "datetime": "2026-06-14T07:00:00Z"
+    "datetime": "2026-06-14T01:00:00Z"
   },
   {
     "matchId": 8,
@@ -101,7 +101,7 @@
     "stadium": "BC Place",
     "city": "Vancouver",
     "country": "Canada",
-    "datetime": "2026-06-13T10:00:00Z"
+    "datetime": "2026-06-13T04:00:00Z"
   },
   {
     "matchId": 9,
@@ -114,7 +114,7 @@
     "stadium": "NRG Stadium",
     "city": "Houston",
     "country": "USA",
-    "datetime": "2026-06-14T23:00:00Z"
+    "datetime": "2026-06-14T17:00:00Z"
   },
   {
     "matchId": 10,
@@ -127,7 +127,7 @@
     "stadium": "AT&T Stadium",
     "city": "Arlington",
     "country": "USA",
-    "datetime": "2026-06-15T02:00:00Z"
+    "datetime": "2026-06-14T20:00:00Z"
   },
   {
     "matchId": 11,
@@ -140,7 +140,7 @@
     "stadium": "Lincoln Financial Field",
     "city": "Philadelphia",
     "country": "USA",
-    "datetime": "2026-06-15T05:00:00Z"
+    "datetime": "2026-06-14T23:00:00Z"
   },
   {
     "matchId": 12,
@@ -153,7 +153,7 @@
     "stadium": "Estadio BBVA",
     "city": "Monterrey",
     "country": "Mexico",
-    "datetime": "2026-06-15T08:00:00Z"
+    "datetime": "2026-06-15T02:00:00Z"
   },
   {
     "matchId": 13,
@@ -166,7 +166,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-06-15T22:00:00Z"
+    "datetime": "2026-06-15T16:00:00Z"
   },
   {
     "matchId": 14,
@@ -179,7 +179,7 @@
     "stadium": "Lumen Field",
     "city": "Seattle",
     "country": "USA",
-    "datetime": "2026-06-16T01:00:00Z"
+    "datetime": "2026-06-15T19:00:00Z"
   },
   {
     "matchId": 15,
@@ -192,7 +192,7 @@
     "stadium": "Hard Rock Stadium",
     "city": "Miami",
     "country": "USA",
-    "datetime": "2026-06-16T04:00:00Z"
+    "datetime": "2026-06-15T22:00:00Z"
   },
   {
     "matchId": 16,
@@ -205,7 +205,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-06-16T07:00:00Z"
+    "datetime": "2026-06-16T01:00:00Z"
   },
   {
     "matchId": 17,
@@ -218,7 +218,7 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-06-17T01:00:00Z"
+    "datetime": "2026-06-16T19:00:00Z"
   },
   {
     "matchId": 18,
@@ -231,7 +231,7 @@
     "stadium": "Gillette Stadium",
     "city": "Boston",
     "country": "USA",
-    "datetime": "2026-06-17T04:00:00Z"
+    "datetime": "2026-06-16T22:00:00Z"
   },
   {
     "matchId": 19,
@@ -244,7 +244,7 @@
     "stadium": "Arrowhead Stadium",
     "city": "Kansas City",
     "country": "USA",
-    "datetime": "2026-06-17T07:00:00Z"
+    "datetime": "2026-06-17T01:00:00Z"
   },
   {
     "matchId": 20,
@@ -257,7 +257,7 @@
     "stadium": "Levi's Stadium",
     "city": "Santa Clara",
     "country": "USA",
-    "datetime": "2026-06-17T10:00:00Z"
+    "datetime": "2026-06-17T04:00:00Z"
   },
   {
     "matchId": 21,
@@ -270,7 +270,7 @@
     "stadium": "NRG Stadium",
     "city": "Houston",
     "country": "USA",
-    "datetime": "2026-06-17T23:00:00Z"
+    "datetime": "2026-06-17T17:00:00Z"
   },
   {
     "matchId": 22,
@@ -283,7 +283,7 @@
     "stadium": "AT&T Stadium",
     "city": "Arlington",
     "country": "USA",
-    "datetime": "2026-06-18T02:00:00Z"
+    "datetime": "2026-06-17T20:00:00Z"
   },
   {
     "matchId": 23,
@@ -296,7 +296,7 @@
     "stadium": "BMO Field",
     "city": "Toronto",
     "country": "Canada",
-    "datetime": "2026-06-18T05:00:00Z"
+    "datetime": "2026-06-17T23:00:00Z"
   },
   {
     "matchId": 24,
@@ -309,7 +309,7 @@
     "stadium": "Estadio Azteca",
     "city": "Mexico City",
     "country": "Mexico",
-    "datetime": "2026-06-18T08:00:00Z"
+    "datetime": "2026-06-18T02:00:00Z"
   },
   {
     "matchId": 25,
@@ -322,7 +322,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-06-18T22:00:00Z"
+    "datetime": "2026-06-18T16:00:00Z"
   },
   {
     "matchId": 26,
@@ -335,7 +335,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-06-19T01:00:00Z"
+    "datetime": "2026-06-18T19:00:00Z"
   },
   {
     "matchId": 27,
@@ -348,7 +348,7 @@
     "stadium": "BC Place",
     "city": "Vancouver",
     "country": "Canada",
-    "datetime": "2026-06-19T04:00:00Z"
+    "datetime": "2026-06-18T22:00:00Z"
   },
   {
     "matchId": 28,
@@ -361,7 +361,7 @@
     "stadium": "Estadio Akron",
     "city": "Guadalajara",
     "country": "Mexico",
-    "datetime": "2026-06-19T07:00:00Z"
+    "datetime": "2026-06-19T01:00:00Z"
   },
   {
     "matchId": 29,
@@ -374,7 +374,7 @@
     "stadium": "Lumen Field",
     "city": "Seattle",
     "country": "USA",
-    "datetime": "2026-06-20T01:00:00Z"
+    "datetime": "2026-06-19T19:00:00Z"
   },
   {
     "matchId": 30,
@@ -387,7 +387,7 @@
     "stadium": "Gillette Stadium",
     "city": "Boston",
     "country": "USA",
-    "datetime": "2026-06-20T04:00:00Z"
+    "datetime": "2026-06-19T22:00:00Z"
   },
   {
     "matchId": 31,
@@ -400,7 +400,7 @@
     "stadium": "Lincoln Financial Field",
     "city": "Philadelphia",
     "country": "USA",
-    "datetime": "2026-06-20T06:30:00Z"
+    "datetime": "2026-06-20T00:30:00Z"
   },
   {
     "matchId": 32,
@@ -413,7 +413,7 @@
     "stadium": "Levi's Stadium",
     "city": "Santa Clara",
     "country": "USA",
-    "datetime": "2026-06-20T09:00:00Z"
+    "datetime": "2026-06-20T03:00:00Z"
   },
   {
     "matchId": 33,
@@ -426,7 +426,7 @@
     "stadium": "NRG Stadium",
     "city": "Houston",
     "country": "USA",
-    "datetime": "2026-06-20T23:00:00Z"
+    "datetime": "2026-06-20T17:00:00Z"
   },
   {
     "matchId": 34,
@@ -439,7 +439,7 @@
     "stadium": "BMO Field",
     "city": "Toronto",
     "country": "Canada",
-    "datetime": "2026-06-21T02:00:00Z"
+    "datetime": "2026-06-20T20:00:00Z"
   },
   {
     "matchId": 35,
@@ -452,7 +452,7 @@
     "stadium": "Arrowhead Stadium",
     "city": "Kansas City",
     "country": "USA",
-    "datetime": "2026-06-21T06:00:00Z"
+    "datetime": "2026-06-21T00:00:00Z"
   },
   {
     "matchId": 36,
@@ -465,7 +465,7 @@
     "stadium": "Estadio BBVA",
     "city": "Monterrey",
     "country": "Mexico",
-    "datetime": "2026-06-21T10:00:00Z"
+    "datetime": "2026-06-21T04:00:00Z"
   },
   {
     "matchId": 37,
@@ -478,7 +478,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-06-21T22:00:00Z"
+    "datetime": "2026-06-21T16:00:00Z"
   },
   {
     "matchId": 38,
@@ -491,7 +491,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-06-22T01:00:00Z"
+    "datetime": "2026-06-21T19:00:00Z"
   },
   {
     "matchId": 39,
@@ -504,7 +504,7 @@
     "stadium": "Hard Rock Stadium",
     "city": "Miami",
     "country": "USA",
-    "datetime": "2026-06-22T04:00:00Z"
+    "datetime": "2026-06-21T22:00:00Z"
   },
   {
     "matchId": 40,
@@ -517,7 +517,7 @@
     "stadium": "BC Place",
     "city": "Vancouver",
     "country": "Canada",
-    "datetime": "2026-06-22T07:00:00Z"
+    "datetime": "2026-06-22T01:00:00Z"
   },
   {
     "matchId": 41,
@@ -530,7 +530,7 @@
     "stadium": "AT&T Stadium",
     "city": "Arlington",
     "country": "USA",
-    "datetime": "2026-06-22T23:00:00Z"
+    "datetime": "2026-06-22T17:00:00Z"
   },
   {
     "matchId": 42,
@@ -543,7 +543,7 @@
     "stadium": "Lincoln Financial Field",
     "city": "Philadelphia",
     "country": "USA",
-    "datetime": "2026-06-23T03:00:00Z"
+    "datetime": "2026-06-22T21:00:00Z"
   },
   {
     "matchId": 43,
@@ -556,7 +556,7 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-06-23T06:00:00Z"
+    "datetime": "2026-06-23T00:00:00Z"
   },
   {
     "matchId": 44,
@@ -569,7 +569,7 @@
     "stadium": "Levi's Stadium",
     "city": "Santa Clara",
     "country": "USA",
-    "datetime": "2026-06-23T09:00:00Z"
+    "datetime": "2026-06-23T03:00:00Z"
   },
   {
     "matchId": 45,
@@ -582,7 +582,7 @@
     "stadium": "NRG Stadium",
     "city": "Houston",
     "country": "USA",
-    "datetime": "2026-06-23T23:00:00Z"
+    "datetime": "2026-06-23T17:00:00Z"
   },
   {
     "matchId": 46,
@@ -595,7 +595,7 @@
     "stadium": "Gillette Stadium",
     "city": "Boston",
     "country": "USA",
-    "datetime": "2026-06-24T02:00:00Z"
+    "datetime": "2026-06-23T20:00:00Z"
   },
   {
     "matchId": 47,
@@ -608,7 +608,7 @@
     "stadium": "BMO Field",
     "city": "Toronto",
     "country": "Canada",
-    "datetime": "2026-06-24T05:00:00Z"
+    "datetime": "2026-06-23T23:00:00Z"
   },
   {
     "matchId": 48,
@@ -621,7 +621,7 @@
     "stadium": "Estadio Akron",
     "city": "Guadalajara",
     "country": "Mexico",
-    "datetime": "2026-06-24T08:00:00Z"
+    "datetime": "2026-06-24T02:00:00Z"
   },
   {
     "matchId": 49,
@@ -634,7 +634,7 @@
     "stadium": "BC Place",
     "city": "Vancouver",
     "country": "Canada",
-    "datetime": "2026-06-25T01:00:00Z"
+    "datetime": "2026-06-24T19:00:00Z"
   },
   {
     "matchId": 50,
@@ -647,7 +647,7 @@
     "stadium": "Lumen Field",
     "city": "Seattle",
     "country": "USA",
-    "datetime": "2026-06-25T01:00:00Z"
+    "datetime": "2026-06-24T19:00:00Z"
   },
   {
     "matchId": 51,
@@ -660,7 +660,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-06-25T04:00:00Z"
+    "datetime": "2026-06-24T22:00:00Z"
   },
   {
     "matchId": 52,
@@ -673,7 +673,7 @@
     "stadium": "Hard Rock Stadium",
     "city": "Miami",
     "country": "USA",
-    "datetime": "2026-06-25T04:00:00Z"
+    "datetime": "2026-06-24T22:00:00Z"
   },
   {
     "matchId": 53,
@@ -686,7 +686,7 @@
     "stadium": "Estadio BBVA",
     "city": "Monterrey",
     "country": "Mexico",
-    "datetime": "2026-06-25T07:00:00Z"
+    "datetime": "2026-06-25T01:00:00Z"
   },
   {
     "matchId": 54,
@@ -699,7 +699,7 @@
     "stadium": "Estadio Azteca",
     "city": "Mexico City",
     "country": "Mexico",
-    "datetime": "2026-06-25T07:00:00Z"
+    "datetime": "2026-06-25T01:00:00Z"
   },
   {
     "matchId": 55,
@@ -712,7 +712,7 @@
     "stadium": "Lincoln Financial Field",
     "city": "Philadelphia",
     "country": "USA",
-    "datetime": "2026-06-26T02:00:00Z"
+    "datetime": "2026-06-25T20:00:00Z"
   },
   {
     "matchId": 56,
@@ -725,7 +725,7 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-06-26T02:00:00Z"
+    "datetime": "2026-06-25T20:00:00Z"
   },
   {
     "matchId": 57,
@@ -738,7 +738,7 @@
     "stadium": "Arrowhead Stadium",
     "city": "Kansas City",
     "country": "USA",
-    "datetime": "2026-06-26T05:00:00Z"
+    "datetime": "2026-06-25T23:00:00Z"
   },
   {
     "matchId": 58,
@@ -751,7 +751,7 @@
     "stadium": "AT&T Stadium",
     "city": "Arlington",
     "country": "USA",
-    "datetime": "2026-06-26T05:00:00Z"
+    "datetime": "2026-06-25T23:00:00Z"
   },
   {
     "matchId": 59,
@@ -764,7 +764,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-06-26T08:00:00Z"
+    "datetime": "2026-06-26T02:00:00Z"
   },
   {
     "matchId": 60,
@@ -777,7 +777,7 @@
     "stadium": "Levi's Stadium",
     "city": "Santa Clara",
     "country": "USA",
-    "datetime": "2026-06-26T08:00:00Z"
+    "datetime": "2026-06-26T02:00:00Z"
   },
   {
     "matchId": 61,
@@ -790,7 +790,7 @@
     "stadium": "Gillette Stadium",
     "city": "Boston",
     "country": "USA",
-    "datetime": "2026-06-27T01:00:00Z"
+    "datetime": "2026-06-26T19:00:00Z"
   },
   {
     "matchId": 62,
@@ -803,7 +803,7 @@
     "stadium": "BMO Field",
     "city": "Toronto",
     "country": "Canada",
-    "datetime": "2026-06-27T01:00:00Z"
+    "datetime": "2026-06-26T19:00:00Z"
   },
   {
     "matchId": 63,
@@ -816,7 +816,7 @@
     "stadium": "NRG Stadium",
     "city": "Houston",
     "country": "USA",
-    "datetime": "2026-06-27T06:00:00Z"
+    "datetime": "2026-06-27T00:00:00Z"
   },
   {
     "matchId": 64,
@@ -829,7 +829,7 @@
     "stadium": "Estadio Akron",
     "city": "Guadalajara",
     "country": "Mexico",
-    "datetime": "2026-06-27T06:00:00Z"
+    "datetime": "2026-06-27T00:00:00Z"
   },
   {
     "matchId": 65,
@@ -842,7 +842,7 @@
     "stadium": "BC Place",
     "city": "Vancouver",
     "country": "Canada",
-    "datetime": "2026-06-27T09:00:00Z"
+    "datetime": "2026-06-27T03:00:00Z"
   },
   {
     "matchId": 66,
@@ -855,7 +855,7 @@
     "stadium": "Lumen Field",
     "city": "Seattle",
     "country": "USA",
-    "datetime": "2026-06-27T09:00:00Z"
+    "datetime": "2026-06-27T03:00:00Z"
   },
   {
     "matchId": 67,
@@ -868,7 +868,7 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-06-28T03:00:00Z"
+    "datetime": "2026-06-27T21:00:00Z"
   },
   {
     "matchId": 68,
@@ -881,7 +881,7 @@
     "stadium": "Lincoln Financial Field",
     "city": "Philadelphia",
     "country": "USA",
-    "datetime": "2026-06-28T03:00:00Z"
+    "datetime": "2026-06-27T21:00:00Z"
   },
   {
     "matchId": 69,
@@ -894,7 +894,7 @@
     "stadium": "Hard Rock Stadium",
     "city": "Miami",
     "country": "USA",
-    "datetime": "2026-06-28T05:30:00Z"
+    "datetime": "2026-06-27T23:30:00Z"
   },
   {
     "matchId": 70,
@@ -907,7 +907,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-06-28T05:30:00Z"
+    "datetime": "2026-06-27T23:30:00Z"
   },
   {
     "matchId": 71,
@@ -920,7 +920,7 @@
     "stadium": "Arrowhead Stadium",
     "city": "Kansas City",
     "country": "USA",
-    "datetime": "2026-06-28T08:00:00Z"
+    "datetime": "2026-06-28T02:00:00Z"
   },
   {
     "matchId": 72,
@@ -933,7 +933,7 @@
     "stadium": "AT&T Stadium",
     "city": "Dallas",
     "country": "USA",
-    "datetime": "2026-06-28T08:00:00Z"
+    "datetime": "2026-06-28T02:00:00Z"
   },
   {
     "matchId": 73,
@@ -945,7 +945,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-06-29T01:00:00Z"
+    "datetime": "2026-06-28T19:00:00Z"
   },
   {
     "matchId": 74,
@@ -957,7 +957,7 @@
     "stadium": "NRG Stadium",
     "city": "Houston",
     "country": "USA",
-    "datetime": "2026-06-29T23:00:00Z"
+    "datetime": "2026-06-29T17:00:00Z"
   },
   {
     "matchId": 75,
@@ -969,7 +969,7 @@
     "stadium": "Gillette Stadium",
     "city": "Boston",
     "country": "USA",
-    "datetime": "2026-06-30T02:30:00Z"
+    "datetime": "2026-06-29T20:30:00Z"
   },
   {
     "matchId": 76,
@@ -981,7 +981,7 @@
     "stadium": "Estadio BBVA",
     "city": "Monterrey",
     "country": "Mexico",
-    "datetime": "2026-06-30T07:00:00Z"
+    "datetime": "2026-06-30T01:00:00Z"
   },
   {
     "matchId": 77,
@@ -993,7 +993,7 @@
     "stadium": "AT&T Stadium",
     "city": "Dallas",
     "country": "USA",
-    "datetime": "2026-06-30T23:00:00Z"
+    "datetime": "2026-06-30T17:00:00Z"
   },
   {
     "matchId": 78,
@@ -1005,7 +1005,7 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-07-01T03:00:00Z"
+    "datetime": "2026-06-30T21:00:00Z"
   },
   {
     "matchId": 79,
@@ -1017,7 +1017,7 @@
     "stadium": "Estadio Azteca",
     "city": "Mexico City",
     "country": "Mexico",
-    "datetime": "2026-07-01T07:00:00Z"
+    "datetime": "2026-07-01T01:00:00Z"
   },
   {
     "matchId": 80,
@@ -1029,7 +1029,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-07-01T22:00:00Z"
+    "datetime": "2026-07-01T16:00:00Z"
   },
   {
     "matchId": 81,
@@ -1041,7 +1041,7 @@
     "stadium": "Lumen Field",
     "city": "Seattle",
     "country": "USA",
-    "datetime": "2026-07-02T02:00:00Z"
+    "datetime": "2026-07-01T20:00:00Z"
   },
   {
     "matchId": 82,
@@ -1053,7 +1053,7 @@
     "stadium": "Levi's Stadium",
     "city": "Santa Clara",
     "country": "USA",
-    "datetime": "2026-07-02T06:00:00Z"
+    "datetime": "2026-07-02T00:00:00Z"
   },
   {
     "matchId": 83,
@@ -1065,7 +1065,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-07-03T01:00:00Z"
+    "datetime": "2026-07-02T19:00:00Z"
   },
   {
     "matchId": 84,
@@ -1077,7 +1077,7 @@
     "stadium": "BMO Field",
     "city": "Toronto",
     "country": "Canada",
-    "datetime": "2026-07-03T05:00:00Z"
+    "datetime": "2026-07-02T23:00:00Z"
   },
   {
     "matchId": 85,
@@ -1089,7 +1089,7 @@
     "stadium": "BC Place",
     "city": "Vancouver",
     "country": "Canada",
-    "datetime": "2026-07-03T09:00:00Z"
+    "datetime": "2026-07-03T03:00:00Z"
   },
   {
     "matchId": 86,
@@ -1101,7 +1101,7 @@
     "stadium": "AT&T Stadium",
     "city": "Dallas",
     "country": "USA",
-    "datetime": "2026-07-04T00:00:00Z"
+    "datetime": "2026-07-03T18:00:00Z"
   },
   {
     "matchId": 87,
@@ -1113,7 +1113,7 @@
     "stadium": "Hard Rock Stadium",
     "city": "Miami",
     "country": "USA",
-    "datetime": "2026-07-04T04:00:00Z"
+    "datetime": "2026-07-03T22:00:00Z"
   },
   {
     "matchId": 88,
@@ -1125,7 +1125,7 @@
     "stadium": "Arrowhead Stadium",
     "city": "Kansas City",
     "country": "USA",
-    "datetime": "2026-07-04T07:30:00Z"
+    "datetime": "2026-07-04T01:30:00Z"
   },
   {
     "matchId": 89,
@@ -1137,7 +1137,7 @@
     "stadium": "NRG Stadium",
     "city": "Houston",
     "country": "USA",
-    "datetime": "2026-07-04T23:00:00Z"
+    "datetime": "2026-07-04T17:00:00Z"
   },
   {
     "matchId": 90,
@@ -1149,7 +1149,7 @@
     "stadium": "Lincoln Financial Field",
     "city": "Philadelphia",
     "country": "USA",
-    "datetime": "2026-07-05T03:00:00Z"
+    "datetime": "2026-07-04T21:00:00Z"
   },
   {
     "matchId": 91,
@@ -1161,7 +1161,7 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-07-06T02:00:00Z"
+    "datetime": "2026-07-05T20:00:00Z"
   },
   {
     "matchId": 92,
@@ -1173,7 +1173,7 @@
     "stadium": "Estadio Azteca",
     "city": "Mexico City",
     "country": "Mexico",
-    "datetime": "2026-07-06T06:00:00Z"
+    "datetime": "2026-07-06T00:00:00Z"
   },
   {
     "matchId": 93,
@@ -1185,7 +1185,7 @@
     "stadium": "AT&T Stadium",
     "city": "Dallas",
     "country": "USA",
-    "datetime": "2026-07-07T01:00:00Z"
+    "datetime": "2026-07-06T19:00:00Z"
   },
   {
     "matchId": 94,
@@ -1197,7 +1197,7 @@
     "stadium": "Lumen Field",
     "city": "Seattle",
     "country": "USA",
-    "datetime": "2026-07-07T06:00:00Z"
+    "datetime": "2026-07-07T00:00:00Z"
   },
   {
     "matchId": 95,
@@ -1209,7 +1209,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-07-07T22:00:00Z"
+    "datetime": "2026-07-07T16:00:00Z"
   },
   {
     "matchId": 96,
@@ -1221,7 +1221,7 @@
     "stadium": "BC Place",
     "city": "Vancouver",
     "country": "Canada",
-    "datetime": "2026-07-08T02:00:00Z"
+    "datetime": "2026-07-07T20:00:00Z"
   },
   {
     "matchId": 97,
@@ -1233,7 +1233,7 @@
     "stadium": "Gillette Stadium",
     "city": "Boston",
     "country": "USA",
-    "datetime": "2026-07-10T02:00:00Z"
+    "datetime": "2026-07-09T20:00:00Z"
   },
   {
     "matchId": 98,
@@ -1245,7 +1245,7 @@
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
     "country": "USA",
-    "datetime": "2026-07-11T01:00:00Z"
+    "datetime": "2026-07-10T19:00:00Z"
   },
   {
     "matchId": 99,
@@ -1257,7 +1257,7 @@
     "stadium": "Hard Rock Stadium",
     "city": "Miami",
     "country": "USA",
-    "datetime": "2026-07-12T03:00:00Z"
+    "datetime": "2026-07-11T21:00:00Z"
   },
   {
     "matchId": 100,
@@ -1269,7 +1269,7 @@
     "stadium": "Arrowhead Stadium",
     "city": "Kansas City",
     "country": "USA",
-    "datetime": "2026-07-12T07:00:00Z"
+    "datetime": "2026-07-12T01:00:00Z"
   },
   {
     "matchId": 101,
@@ -1281,7 +1281,7 @@
     "stadium": "AT&T Stadium",
     "city": "Dallas",
     "country": "USA",
-    "datetime": "2026-07-15T01:00:00Z"
+    "datetime": "2026-07-14T19:00:00Z"
   },
   {
     "matchId": 102,
@@ -1293,7 +1293,7 @@
     "stadium": "Mercedes-Benz Stadium",
     "city": "Atlanta",
     "country": "USA",
-    "datetime": "2026-07-16T01:00:00Z"
+    "datetime": "2026-07-15T19:00:00Z"
   },
   {
     "matchId": 103,
@@ -1305,7 +1305,7 @@
     "stadium": "Hard Rock Stadium",
     "city": "Miami",
     "country": "USA",
-    "datetime": "2026-07-19T03:00:00Z"
+    "datetime": "2026-07-18T21:00:00Z"
   },
   {
     "matchId": 104,
@@ -1317,6 +1317,6 @@
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
     "country": "USA",
-    "datetime": "2026-07-26T01:00:00Z"
+    "datetime": "2026-07-25T19:00:00Z"
   }
 ]
