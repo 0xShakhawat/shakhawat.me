@@ -7,10 +7,11 @@
     "team2": "South Africa",
     "flag1": "mx",
     "flag2": "za",
+    "date": "2026-06-12",
+    "time": "01:00",
     "stadium": "Estadio Azteca",
     "city": "Mexico City",
-    "country": "Mexico",
-    "datetime": "2026-04-24T19:27:00Z"
+    "country": "Mexico"
   },
   {
     "matchId": 2,
@@ -20,10 +21,11 @@
     "team2": "Czech Republic",
     "flag1": "kr",
     "flag2": "cz",
+    "date": "2026-06-12",
+    "time": "08:00",
     "stadium": "Estadio Akron",
     "city": "Guadalajara",
-    "country": "Mexico",
-    "datetime": "2026-04-24T19:28:00Z"
+    "country": "Mexico"
   },
   {
     "matchId": 3,
@@ -33,10 +35,11 @@
     "team2": "Bosnia & Herzegovina",
     "flag1": "ca",
     "flag2": "ba",
+    "date": "2026-06-13",
+    "time": "01:00",
     "stadium": "BMO Field",
     "city": "Toronto",
-    "country": "Canada",
-    "datetime": "2026-04-24T19:29:00Z"
+    "country": "Canada"
   },
   {
     "matchId": 4,
@@ -46,10 +49,11 @@
     "team2": "Paraguay",
     "flag1": "us",
     "flag2": "py",
+    "date": "2026-06-13",
+    "time": "07:00",
     "stadium": "SoFi Stadium",
     "city": "Los Angeles",
-    "country": "USA",
-    "datetime": "2026-04-24T19:30:00Z"
+    "country": "USA"
   },
   {
     "matchId": 5,
@@ -59,10 +63,11 @@
     "team2": "Switzerland",
     "flag1": "qa",
     "flag2": "ch",
+    "date": "2026-06-14",
+    "time": "01:00",
     "stadium": "Levi's Stadium",
     "city": "Santa Clara",
-    "country": "USA",
-    "datetime": "2026-04-24T18:00:00Z"
+    "country": "USA"
   },
   {
     "matchId": 6,
@@ -72,10 +77,11 @@
     "team2": "Morocco",
     "flag1": "br",
     "flag2": "ma",
+    "date": "2026-06-14",
+    "time": "04:00",
     "stadium": "MetLife Stadium",
     "city": "East Rutherford",
-    "country": "USA",
-    "datetime": "2026-04-24T19:45:00Z"
+    "country": "USA"
   },
   {
     "matchId": 7,
@@ -85,10 +91,11 @@
     "team2": "Scotland",
     "flag1": "ht",
     "flag2": "gb-sct",
+    "date": "2026-06-14",
+    "time": "07:00",
     "stadium": "Gillette Stadium",
     "city": "Boston",
-    "country": "USA",
-    "datetime": "2026-04-24T19:50:00Z"
+    "country": "USA"
   },
   {
     "matchId": 8,
