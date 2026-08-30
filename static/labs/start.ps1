@@ -80,7 +80,7 @@ try {
     Write-Host ""
 
     Write-Host "IMPORTANT: Close this PowerShell window"
-    Write-Host "and open a new one."
+    Write-Host "and open a new one. "
     Write-Host ""
 
     Write-Host "Then run:" -ForegroundColor Cyan
