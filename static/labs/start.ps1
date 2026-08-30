@@ -1,92 +1,81 @@
+```powershell
 $ErrorActionPreference = "Stop"
 
-$InstallDir = Join-Path $env:LOCALAPPDATA "0xlab"
-$ExePath = Join-Path $InstallDir "0xlab.exe"
+$InstallDir = "$env:LOCALAPPDATA\0xlab"
+$ExePath = "$InstallDir\0xlab.exe"
 $DownloadUrl = "https://0xshakhawat.com/labs/windows/amd64/0xlab.exe"
 
 Write-Host ""
-Write-Host "0xLAB Starter" -ForegroundColor Cyan
-Write-Host "────────────────────────────────────"
+Write-Host "Installing 0xlab..." -ForegroundColor Cyan
 Write-Host ""
 
-try {
-    # Create installation directory
-    if (-not (Test-Path $InstallDir)) {
-        New-Item -ItemType Directory -Path $InstallDir -Force | Out-Null
-    }
+# Create installation directory
+New-Item -ItemType Directory -Path $InstallDir -Force | Out-Null
 
-    Write-Host "Downloading 0xlab..." -ForegroundColor Yellow
+Write-Host "Downloading 0xlab.exe..."
 
-    # Download executable
-    Invoke-WebRequest `
-        -Uri $DownloadUrl `
-        -OutFile $ExePath `
-        -UseBasicParsing
+Invoke-WebRequest `
+    -Uri $DownloadUrl `
+    -OutFile $ExePath `
+    -UseBasicParsing
 
-    # Verify that the executable exists
-    if (-not (Test-Path $ExePath)) {
-        throw "0xlab.exe was not downloaded."
-    }
+Write-Host "Download complete." -ForegroundColor Green
 
-    Write-Host "✓ Downloaded 0xlab" -ForegroundColor Green
-
-    # Get current User PATH
-    $UserPath = [Environment]::GetEnvironmentVariable("Path", "User")
-
-    if ([string]::IsNullOrWhiteSpace($UserPath)) {
-        $UserPath = ""
-    }
-
-    # Add installation directory to User PATH if it isn't already there
-    $PathEntries = $UserPath -split ";" | Where-Object {
-        -not [string]::IsNullOrWhiteSpace($_)
-    }
-
-    $AlreadyInPath = $PathEntries | Where-Object {
-        $_.TrimEnd("\") -ieq $InstallDir.TrimEnd("\")
-    }
-
-    if (-not $AlreadyInPath) {
-        if ($UserPath.Length -gt 0 -and -not $UserPath.EndsWith(";")) {
-            $UserPath += ";"
-        }
-
-        $UserPath += $InstallDir
-
-        [Environment]::SetEnvironmentVariable(
-            "Path",
-            $UserPath,
-            "User"
-        )
-
-        Write-Host "✓ Added 0xlab to User PATH" -ForegroundColor Green
-    }
-    else {
-        Write-Host "✓ 0xlab is already in User PATH" -ForegroundColor Green
-    }
-
-    Write-Host ""
-    Write-Host "0xLab is ready" -ForegroundColor Green
-    Write-Host ""
-    Write-Host "Path to:"
-    Write-Host "  $ExePath"
-    Write-Host ""
-    Write-Host "Close this PowerShell window and open a new one."
-    Write-Host ""
-    Write-Host "Then run:"
-    Write-Host ""
-    Write-Host "  0xlab version" -ForegroundColor Cyan
-    Write-Host ""
-    Write-Host "Example:"
-    Write-Host ""
-    Write-Host "  0xlab dbms q1 --copy" -ForegroundColor Cyan
-    Write-Host ""
+# Check that the file exists
+if (-not (Test-Path $ExePath)) {
+    throw "0xlab.exe was not downloaded."
 }
-catch {
-    Write-Host ""
-    Write-Host "✗ Installation failed." -ForegroundColor Red
-    Write-Host ""
-    Write-Host $_.Exception.Message -ForegroundColor Red
-    Write-Host ""
-    exit 1
+
+# Add installation directory to USER PATH
+$UserPath = [Environment]::GetEnvironmentVariable("Path", "User")
+
+if ([string]::IsNullOrEmpty($UserPath)) {
+    $UserPath = ""
 }
+
+$PathEntries = $UserPath -split ";" |
+    Where-Object { $_ -and $_.Trim() }
+
+$AlreadyExists = $PathEntries | Where-Object {
+    $_.TrimEnd("\") -ieq $InstallDir.TrimEnd("\")
+}
+
+if (-not $AlreadyExists) {
+
+    if ($UserPath -and -not $UserPath.EndsWith(";")) {
+        $UserPath += ";"
+    }
+
+    $UserPath += $InstallDir
+
+    [Environment]::SetEnvironmentVariable(
+        "Path",
+        $UserPath,
+        "User"
+    )
+
+    Write-Host "Added 0xlab to User PATH." -ForegroundColor Green
+}
+else {
+    Write-Host "0xlab is already in User PATH." -ForegroundColor Green
+}
+
+Write-Host ""
+Write-Host "==================================" -ForegroundColor Cyan
+Write-Host "       0xlab installed!" -ForegroundColor Green
+Write-Host "==================================" -ForegroundColor Cyan
+Write-Host ""
+
+Write-Host "Location:"
+Write-Host "  $ExePath"
+Write-Host ""
+
+Write-Host "Close this PowerShell window and open a new one."
+Write-Host ""
+
+Write-Host "Then try:"
+Write-Host ""
+Write-Host "  0xlab help" -ForegroundColor Cyan
+Write-Host "  0xlab dbms q1 --copy" -ForegroundColor Cyan
+Write-Host ""
+```
