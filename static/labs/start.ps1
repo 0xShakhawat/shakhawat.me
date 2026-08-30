@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 
 $InstallDir = "$env:LOCALAPPDATA\0xlab"
 $ExePath = "$InstallDir\0xlab.exe"
-$DownloadUrl = "https://0xshakhawat.com/labs/windows/amd64/0xlab.exe"
+$DownloadUrl = "https://shakhawat.me/labs/windows/amd64/0xlab.exe"
 
 try {
 
